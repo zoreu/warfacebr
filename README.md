@@ -7,7 +7,7 @@ Abra o navegador Microsoft Edge e Acesse https://account.my.games/ e faça sua c
 Baixe o Launcher Especial da Migração em [Download](https://static.gc.my.com/WarfaceMycomBrLoader.exe) ou Acesse o site https://pc.warface.com/promo/warface-le-migration/pt/ e clique em BAIXAR OU INICIALIZADOR MY.GAMES
 
 ## 3º Passo
-Abra o MY.GAMES GameCenter e Logue na sua conta e clique em MIGRAR CONTA, pode pedir login novamente e entre na conta da my.games, logo em seguida coloque o login do Jogo do Warface da Level Up e não o login da conta da level up
+Abra o MY.GAMES GameCenter e Logue na sua conta, clique em Library e selecione Warface International e clique em MIGRAR CONTA, pode pedir login novamente e entre na conta da my.games, logo em seguida coloque o login do Jogo do Warface da Level Up e não o login da conta da level up
 
 ## 4 Passo
 Ao fazer a migração pode demorar uns 10min pra aparecer o pacote de itens, escolha a classe preferida e confirme, depois demore uns 5 minutos e entre no jogo.
